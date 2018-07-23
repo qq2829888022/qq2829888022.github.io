@@ -1,0 +1,503 @@
+body{ background-color:#000; font-size:12px; font-family:宋体; line-height:180%;text-align:center;}
+body,ul,li,dl,dt,dd,h3,form,h1,h2,h3,h4,p{ margin:0; padding:0;}
+div{
+    text-align:center;
+	margin:0 auto;
+}
+li,dl,dt,dd{ list-style:none}
+
+.wapper{ width:1002px; margin:0 auto; position:relative; }
+a{ text-decoration:none}
+a:hover{ text-decoration:underline}
+img{ border:0}
+.c_red {color:#f00;}
+
+.clear{ height:1px;clear:both; overflow:hidden; margin-top:-1px }
+
+/*导航条*/
+.bg{ background:url("mydata090626_bigbg.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_bigbg.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_bigbg.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_bigbg.jpg*/) no-repeat center top
+}
+.big_bg1{ height:98px; background:url("mydata090626_03.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_03.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_03.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_03.jpg*/)
+}
+.big_bg2{ height:85px; background:url("mydata090626_05.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_05.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_05.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_05.jpg*/)
+}
+.big_bg3{ height:102px; background:url("mydata090626_06.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_06.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_06.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_06.jpg*/)
+}
+	.big_bg3 a{ height:82px; width:85px; display:block; float:left}
+	.new:hover{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/)
+}
+	.new_on{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/)
+}
+	.info0708:hover{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/) 172px 172px
+}
+	.info_on{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/) 172px 172px
+}
+	.fertures:hover{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/) 87px 87px
+}
+	.fertures_on{ background:url("three_btn_over.jpg"/*tpa=http://www.dhmy.net/images/three_btn_over.jpg*//*tpa=http://www.cjmy.info/images/three_btn_over.jpg*//*tpa=http://www.58mysf.com/images/three_btn_over.jpg*/) 87px 87px
+}
+	
+.big_bg4{background:url("mydata090626_07.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_07.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_07.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_07.jpg*/) no-repeat center top; 
+_height:113px
+}
+.bg_footer{ background:url("mydata090626_footer_bg.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_footer_bg.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_footer_bg.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_footer_bg.jpg*/) no-repeat center bottom; 
+_height:373px
+}
+
+.c_bg{ background:url("mydata090626_c_line.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_c_line.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_c_line.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_c_line.jpg*/);
+}
+.c_footer{ background:url("mydata090626_footer.jpg"/*tpa=http://www.dhmy.net/images/mydata090626_footer.jpg*//*tpa=http://www.cjmy.info/images/mydata090626_footer.jpg*//*tpa=http://www.58mysf.com/images/mydata090626_footer.jpg*/) no-repeat center bottom;
+_height:373px
+}
+.left{ width:300px; float:left; line-height:200%}
+.left a{ color:#FCEDE4}
+.left a:hover{ color:#EBFF9C}
+a.yellow{color:#FF0; }
+a.cz{color:#FFD8E3; background-color:#0443FF; font-size:14px}
+
+.new_104_on_a_a{font-size:18px; font-weight:900; text-align:center; color:#E40040;text-decoration:underline; }
+
+#p_left{ padding:75px 37px 0 35px; color:#E4E79E }
+	#side_menu1{
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+	font-size:14px;
+	color:#FF6;
+}
+    #side_menu{ font-weight:bold;  text-align:center; cursor:pointer; margin-bottom:10px}
+	.kuang_close{ height:40px; background:url("left_kuang1.jpg"/*tpa=http://www.dhmy.net/images/left_kuang1.jpg*//*tpa=http://www.cjmy.info/images/left_kuang1.jpg*//*tpa=http://www.58mysf.com/images/left_kuang1.jpg*/); 
+line-height:40px; cursor:pointer; font-size:12px; font-weight:normal; text-align:center; }
+	.kuang_close1{ height:40px; background:url("left_kuang1.jpg"/*tpa=http://www.dhmy.net/images/left_kuang1.jpg*//*tpa=http://www.cjmy.info/images/left_kuang1.jpg*//*tpa=http://www.58mysf.com/images/left_kuang1.jpg*/); 
+line-height:40px; cursor:pointer; font-size:18px; font-weight:900; text-align:center; }
+	.kuang_close:hover{ background:url("left_kuang1.jpg"/*tpa=http://www.dhmy.net/images/left_kuang1.jpg*//*tpa=http://www.cjmy.info/images/left_kuang1.jpg*//*tpa=http://www.58mysf.com/images/left_kuang1.jpg*/)
+}
+	#p_left dl{ background:url("left_kuang_line.jpg"/*tpa=http://www.dhmy.net/images/left_kuang_line.jpg*//*tpa=http://www.cjmy.info/images/left_kuang_line.jpg*//*tpa=http://www.58mysf.com/images/left_kuang_line.jpg*/) center bottom
+}
+	#p_left dt.top{ background:url("left_kuang.jpg"/*tpa=http://www.dhmy.net/images/left_kuang.jpg*//*tpa=http://www.cjmy.info/images/left_kuang.jpg*//*tpa=http://www.58mysf.com/images/left_kuang.jpg*/) center -41px; 
+height:45px;line-height:40px; text-indent:33px; cursor:pointer; font-size:12px; font-weight:bold; color:#ebe8e3
+}
+	#p_left dd{ padding:0px 8px 10px 13px;}
+	.dis_none{ display:none}
+	
+.right{ width:702px; float: left; overflow:hidden}
+.p_right{ padding:25px 20px 70px 10px; color:#583829}
+.p_right a{ color:#9D3E22}
+	.column2_con{ padding:5px 0 30px 0}
+	.column2_con table{ width:98%;border:1px solid #DCD19C; border-bottom:none; border-right:none}
+	.table_2{ font-weight:bold}
+	.column2_con th{ line-height:35px; background-color:#8A7B6C; color:#FFF; border:1px solid #DCD19C; font-size:15px}
+	.column2_con td{ border-bottom:1px solid #DCD19C; background-color:#FFF9EF; line-height:30px; text-align:center; border-right:1px solid #DCD19C}
+	.column2_left{ width:51%; float:left }
+	.column2_right{ width:48%; float:right}
+	.column2_left td,.column2_right td{ background-color:#ebe8e3; border:none;line-height:180%;text-align:left}
+	.column2_left table,.column2_right table{ border:none}
+	.nav_bread{ padding:0  15px; height:30px; line-height:35px}
+		.nav_bread a{ color:#39322A}
+	.void{ padding:15px 0 30px 0; font-weight:bold}
+	.void img {padding:2px; border:1px solid #666}
+	.void td{ padding:0 0 10px 0}
+	.void img:hover{ background-color: #FF0}
+	.history{ text-align:center}
+	.history a{ padding:2px 4px; background-color:#333; color:#FFF}
+/*十大玩点*/
+.ten_wd img{ padding:2px; border:1px solid #999}
+.ten_wd td{ border-bottom:1px dashed #999; padding:8px 0; }
+
+.footer_content,.footer_content a{ color:#858A6E; line-height:140%}
+
+
+	
+/*logo*/
+.logo{ width:195px; height:162px; display:block; position:absolute; left: 4px; top: 10px; z-index:999 }
+
+
+/*公告详细页*/
+.sub_bg{background: url("sub_bigbg.jpg"/*tpa=http://www.dhmy.net/images/sub_bigbg.jpg*//*tpa=http://www.cjmy.info/images/sub_bigbg.jpg*//*tpa=http://www.58mysf.com/images/sub_bigbg.jpg*/) no-repeat center top
+}
+.sub_big_bg2{ height:85px; background: url("sub0907_top_2.jpg"/*tpa=http://www.dhmy.net/images/sub0907_top_2.jpg*//*tpa=http://www.cjmy.info/images/sub0907_top_2.jpg*//*tpa=http://www.58mysf.com/images/sub0907_top_2.jpg*/)
+}
+.sub_big_bg3{ height:102px; background: url("sub0907_top_3.jpg"/*tpa=http://www.dhmy.net/images/sub0907_top_3.jpg*//*tpa=http://www.cjmy.info/images/sub0907_top_3.jpg*//*tpa=http://www.58mysf.com/images/sub0907_top_3.jpg*/)
+}
+
+.p_search{ padding:7px 0 0 45px}
+.p_search input{ background-color:#572f0c; color:#FFF}
+.btn_search{ border-style: none;
+				border-color: inherit;
+				border-width: medium;
+				width:47px; 				height:20px; background:url("sub_search_btn.gif"/*tpa=http://www.dhmy.net/images/sub_search_btn.gif*//*tpa=http://www.cjmy.info/images/sub_search_btn.gif*//*tpa=http://www.58mysf.com/images/sub_search_btn.gif*/); 
+				cursor:pointer
+}
+
+.p_baoji{ padding:35px 0 0 42px}
+.baoji_btn{width:212px; height:81px; display:block; background:url("baoji_btn1019.jpg"/*tpa=http://www.dhmy.net/images/baoji_btn1019.jpg*//*tpa=http://www.cjmy.info/images/baoji_btn1019.jpg*//*tpa=http://www.58mysf.com/images/baoji_btn1019.jpg*/);
+}
+
+.p_new1{ line-height:170%;padding:35px 0 0 60px}
+.p_new1 a{color:#582716; width:100px; display:block; float:left}
+
+
+.p_updata{ padding:55px 0 0 45px; line-height:170%}
+.p_updata font { color:#582716}
+.p_updata a:hover font { color:#ebff9c}
+.p_updata a{ color:#582716; background:url("images/ico.gif"/*tpa=http://www.dhmy.net/images/images/ico.gif*//*tpa=http://www.cjmy.info/images/images/ico.gif*//*tpa=http://www.58mysf.com/images/images/ico.gif*/) no-repeat left -26px; 
+padding-left:10px; width:180px; overflow:hidden; display:block; white-space: nowrap;text-overflow: ellipsis;
+}
+
+.sub_left_yxzx{ width:300px; height:102px; display:block}
+.sub_left_yxzx:hover{ background:url("sub_left_yxzz_hover.jpg"/*tpa=http://www.dhmy.net/images/sub_left_yxzz_hover.jpg*//*tpa=http://www.cjmy.info/images/sub_left_yxzz_hover.jpg*//*tpa=http://www.58mysf.com/images/sub_left_yxzz_hover.jpg*/)
+}
+.sub_yxgg{ width:300px; height:55px; display:block; background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/)
+}
+.sub_yxgg:hover{ background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/) left -168px
+}
+.sub_zlk{ width:300px; height:55px; display:block; background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/) left -55px
+}
+.sub_zlk:hover{ background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/) left -223px
+}
+.sub_wzmy{ width:300px; height:58px; display:block; background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/) left -110px
+}
+.sub_wzmy:hover{ background:url("sub_left_btn.jpg"/*tpa=http://www.dhmy.net/images/sub_left_btn.jpg*//*tpa=http://www.cjmy.info/images/sub_left_btn.jpg*//*tpa=http://www.58mysf.com/images/sub_left_btn.jpg*/) left -278px
+}
+.sub_new_updata{ height:494px; background:url("sub_new_updata1014.jpg"/*tpa=http://www.dhmy.net/images/sub_new_updata1014.jpg*//*tpa=http://www.cjmy.info/images/sub_new_updata1014.jpg*//*tpa=http://www.58mysf.com/images/sub_new_updata1014.jpg*/)
+}
+.sub_left_bottombtn .libao{ background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/); 
+height:86px; width:300px; display:block
+}
+.sub_left_bottombtn .libao:hover{ background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/) left -260px;
+}
+.sub_left_bottombtn .miji{  background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/) left -86px; 
+height:86px; width:300px; display:block
+}
+.sub_left_bottombtn .miji:hover{ background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/) left -346px;
+}
+.sub_left_bottombtn .baoku{ background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/) left -172px; 
+height:86px; width:300px; display:block
+}
+.sub_left_bottombtn .baoku:hover{ background:url("sub_left_bottombtn0911.jpg"/*tpa=http://www.dhmy.net/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.cjmy.info/images/sub_left_bottombtn0911.jpg*//*tpa=http://www.58mysf.com/images/sub_left_bottombtn0911.jpg*/) left -432px;
+}
+
+.sub_title{ padding:20px 0 0 0; text-align:center}
+.p_sub_title{ padding-left:40px;background:url("sub_title_bg.jpg"/*tpa=http://www.dhmy.net/images/sub_title_bg.jpg*//*tpa=http://www.cjmy.info/images/sub_title_bg.jpg*//*tpa=http://www.58mysf.com/images/sub_title_bg.jpg*/) no-repeat left top;
+}
+.p_sub_title h1{ font-size:16px; text-align:center; color:#e1d8d1; line-height:38px; height:38px; padding-right:40px;background:url("sub_title_bg.jpg"/*tpa=http://www.dhmy.net/images/sub_title_bg.jpg*//*tpa=http://www.cjmy.info/images/sub_title_bg.jpg*//*tpa=http://www.58mysf.com/images/sub_title_bg.jpg*/) no-repeat right top;
+}
+.sub_time_keyword{ text-align:center; color:#999}
+.sub_rss{ text-align:right; border-bottom:1px dashed #999; padding:0 10px 10px 0;}
+.sub_content{ font-size:14px; padding:10px 10px 70px 10px; line-height:180%; border-top:1px dashed #999; min-height:550px}
+.sub_guide_content { padding:10px 10px 40px 10px}
+
+.sub_content img{  border:1px solid #888; background-color:#FFF;padding:2px;}
+.sub_content a:hover img{ border:1px solid #583829; }
+.sub_content a{ }
+.sub_content p {padding:5px 0;}
+
+.sub_bottom_two{background:url("sub_bottom_two.jpg"/*tpa=http://www.dhmy.net/images/sub_bottom_two.jpg*//*tpa=http://www.cjmy.info/images/sub_bottom_two.jpg*//*tpa=http://www.58mysf.com/images/sub_bottom_two.jpg*/) no-repeat left center; 
+height:189px; margin-top:35px; position:relative; margin-left:-10px;
+}
+.sub_bottom_hz{width:50%; float:left}
+.sub_bottom_two h3{font-size:13px; color:#FFF; text-indent:120px; line-height:32px}
+.sub_bottom_wjhz{ color:#c4baa8; padding:5px 0 0 15px}
+.sub_bottom_wjhz a{ font-size:13px; color:#c4baa8; text-decoration:none}
+.sub_bottom_wjhz a:hover{ text-decoration:underline}
+.sub_bottom_jt{ padding:10px 0 0 0 }
+.sub_bottom_jt img{ padding:1px; border:1px solid #999}
+.sub_bottom_jt table,.sub_bottom_jt td{ border:none}
+
+.sub_right_bottom{line-height:30px; position:absolute; bottom:200px; width:700px; right:50px; z-index:999; text-align:right}
+.sub_right_bottom a{ color:#9F1A00; font-weight:bold}
+
+
+/*幻兽详细介绍页面*/
+.beast_title{text-align:center;background:#DCCBAD;font-weight:bold;}
+
+.beast_img{border-collapse: collapse;border-bottom:none;}
+.beast_img td{border-bottom:none;text-align:center;}
+
+.beast_tab { border: 2px solid #897358;border-top-width:1px; border-collapse: collapse;}
+.beast_tab td { border: 1px solid #897358;padding:7px 5px; text-align:center;}
+.beast_tab td.info,.beast_img td.info{text-align:left;}
+
+.main_attr{background:#FF9933;}
+
+/*新手页面*/
+#new_all{ margin:0 0 50px 0}
+#new_all dt{ height:33px; cursor:pointer}
+#new_all dd{ display:none}
+.new_101{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) no-repeat
+}
+.new_102{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -33px
+}
+.new_103{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -66px
+}
+.new_104{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -99px
+}
+.new_105{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -132px
+}
+.new_106{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -165px
+}
+.new_107{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -198px
+}
+.new_108{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -231px
+}
+.new_109{ background:url("new_7bg.gif"/*tpa=http://www.dhmy.net/images/new_7bg.gif*//*tpa=http://www.cjmy.info/images/new_7bg.gif*//*tpa=http://www.58mysf.com/images/new_7bg.gif*/) left -264px
+}
+
+.new_101_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) no-repeat
+}
+.new_102_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -33px
+}
+.new_103_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -66px
+}
+.new_104_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -99px
+}
+.new_105_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -132px
+}
+.new_106_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -165px
+}
+.new_107_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -198px
+}
+.new_108_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -231px
+}
+.new_109_on{ background:url("new_7bg_on.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on.gif*/) left -264px
+}
+
+.new_101_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) no-repeat
+}
+.new_102_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -33px
+}
+.new_103_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -66px
+}
+.new_104_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -99px
+}
+.new_105_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -132px
+}
+.new_106_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -165px
+}
+.new_107_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -198px
+}
+.new_108_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -231px
+}
+.new_109_on_a{ background:url("new_7bg_on_a.gif"/*tpa=http://www.dhmy.net/images/new_7bg_on_a.gif*//*tpa=http://www.cjmy.info/images/new_7bg_on_a.gif*//*tpa=http://www.58mysf.com/images/new_7bg_on_a.gif*/) left -264px
+}
+
+#new_all dd{ background:url("new_bg_line.jpg"/*tpa=http://www.dhmy.net/images/new_bg_line.jpg*//*tpa=http://www.cjmy.info/images/new_bg_line.jpg*//*tpa=http://www.58mysf.com/images/new_bg_line.jpg*/) repeat-y 5px top
+}
+.new_c_top{ background:url("new_c_top.jpg"/*tpa=http://www.dhmy.net/images/new_c_top.jpg*//*tpa=http://www.cjmy.info/images/new_c_top.jpg*//*tpa=http://www.58mysf.com/images/new_c_top.jpg*/) no-repeat 5px top
+}
+.new_c_bottom{ background:url("new_c_bottom.jpg"/*tpa=http://www.dhmy.net/images/new_c_bottom.jpg*//*tpa=http://www.cjmy.info/images/new_c_bottom.jpg*//*tpa=http://www.58mysf.com/images/new_c_bottom.jpg*/) no-repeat 5px bottom
+}
+.new_c_div{ padding:10px 10px 80px 20px;}
+
+.new_ctsj_one{ background:url("new_ctsj_1.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_1.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_1.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_1.jpg*/); 
+width:200px; height:177px; display:block; float:left; margin:5px 20px
+}
+	.new_ctsj_one:hover{ background:url("new_ctsj_1_on.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_1_on.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_1_on.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_1_on.jpg*/) no-repeat -1px top;
+}
+.new_ctsj_two{ background:url("new_ctsj_2.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_2.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_2.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_2.jpg*/); 
+width:200px; height:177px; display:block; float:left; margin:5px 20px
+}
+	.new_ctsj_two:hover{background:url("new_ctsj_2_on.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_2_on.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_2_on.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_2_on.jpg*/) -1px top;
+}
+.new_ctsj_three{ background:url("new_ctsj_3.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_3.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_3.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_3.jpg*/); 
+width:200px; height:177px; display:block; float:left; margin:5px 20px
+}
+	.new_ctsj_three:hover{ background:url("new_ctsj_3_on.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_3_on.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_3_on.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_3_on.jpg*/) -1px top
+}
+.new_ctsj_four{ background:url("new_ctsj_4.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_4.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_4.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_4.jpg*/); 
+width:200px; height:177px; display:block; float:left; margin:5px 20px
+}
+	.new_ctsj_four:hover{ background:url("new_ctsj_4_on.jpg"/*tpa=http://www.dhmy.net/images/new_ctsj_4_on.jpg*//*tpa=http://www.cjmy.info/images/new_ctsj_4_on.jpg*//*tpa=http://www.58mysf.com/images/new_ctsj_4_on.jpg*/)
+}
+/*下载页面*/
+#download_nav{ background:url("download_nav.jpg"/*tpa=http://www.dhmy.net/images/download_nav.jpg*//*tpa=http://www.cjmy.info/images/download_nav.jpg*//*tpa=http://www.58mysf.com/images/download_nav.jpg*/) no-repeat; 
+height:61px; margin-top:15px
+}
+.down1, .down2, .down3, .down4,.on1,.on2,.on3,.on4{ height:61px; float:left; text-indent:-1999px; overflow:hidden}
+.down1{ width:148px; display:block}
+.down2{ width:228px; display:block}
+.down3{ width:128px; display:block}
+.down4{ width:160px; display:block}
+.down1:hover,.on1{ background:url("download_nav.jpg"/*tpa=http://www.dhmy.net/images/download_nav.jpg*//*tpa=http://www.cjmy.info/images/download_nav.jpg*//*tpa=http://www.58mysf.com/images/download_nav.jpg*/) no-repeat left -61px;
+width:148px; display:block
+}
+.down2:hover,.on2{ background:url("download_nav.jpg"/*tpa=http://www.dhmy.net/images/download_nav.jpg*//*tpa=http://www.cjmy.info/images/download_nav.jpg*//*tpa=http://www.58mysf.com/images/download_nav.jpg*/) no-repeat -148px -61px;
+width:228px; display:block
+}
+.down3:hover,.on3{ background:url("download_nav.jpg"/*tpa=http://www.dhmy.net/images/download_nav.jpg*//*tpa=http://www.cjmy.info/images/download_nav.jpg*//*tpa=http://www.58mysf.com/images/download_nav.jpg*/) no-repeat -376px -61px;
+width:128px; display:block
+}
+.down4:hover,.on4{ background:url("download_nav.jpg"/*tpa=http://www.dhmy.net/images/download_nav.jpg*//*tpa=http://www.cjmy.info/images/download_nav.jpg*//*tpa=http://www.58mysf.com/images/download_nav.jpg*/) no-repeat -504px -61px; 
+width:160px; display:block
+}
+
+#download_content{ font-size:12px;}
+#download_content a{ text-decoration:none; color:#333}
+#download_content a:hover{ text-decoration:underline}
+
+/*------------客户端下载----------*/
+/*推荐下载*/
+.push_down{ padding:10px 0 0 10px; overflow:hidden;}
+.push_down a{ color:#be0000; text-decoration:underline;}
+.push_down a:hover{ color:#836c00;}
+.push_down li{ float:left; width:176px; height:95px; padding-left:35px; display:block; text-align:right;}
+.push_1{ background:url("images/download/push_1.gif"/*tpa=http://www.dhmy.net/images/images/download/push_1.gif*//*tpa=http://www.cjmy.info/images/images/download/push_1.gif*//*tpa=http://www.58mysf.com/images/images/download/push_1.gif*/) no-repeat;
+}
+.push_2{ background:url("images/download/push_2.gif"/*tpa=http://www.dhmy.net/images/images/download/push_2.gif*//*tpa=http://www.cjmy.info/images/images/download/push_2.gif*//*tpa=http://www.58mysf.com/images/images/download/push_2.gif*/) no-repeat;
+}
+.push_3{ background:url("images/download/push_3.gif"/*tpa=http://www.dhmy.net/images/images/download/push_3.gif*//*tpa=http://www.cjmy.info/images/images/download/push_3.gif*//*tpa=http://www.58mysf.com/images/images/download/push_3.gif*/) no-repeat;
+}
+.push_4{ background:url("images/download/push_4.gif"/*tpa=http://www.dhmy.net/images/images/download/push_4.gif*//*tpa=http://www.cjmy.info/images/images/download/push_4.gif*//*tpa=http://www.58mysf.com/images/images/download/push_4.gif*/) no-repeat;
+}
+.push_5{ background:url("images/download/push_5.gif"/*tpa=http://www.dhmy.net/images/images/download/push_5.gif*//*tpa=http://www.cjmy.info/images/images/download/push_5.gif*//*tpa=http://www.58mysf.com/images/images/download/push_5.gif*/) no-repeat;
+}
+.push_down li strong a{ float:left; text-align:left; width:176px; height:61px; display:block; text-indent:-9999em; overflow:hidden;}
+/*最新版本下载*/
+.updata_down{ width:100%; padding-bottom:25px; font-weight:bold;}
+.updata_down li{ float:left; width:200px; height:40px; line-height:40px; background:url("images/download/bg_1.gif"/*tpa=http://www.dhmy.net/images/images/download/bg_1.gif*//*tpa=http://www.cjmy.info/images/images/download/bg_1.gif*//*tpa=http://www.58mysf.com/images/images/download/bg_1.gif*/) no-repeat; 
+text-align:center; margin:10px 6px 0px 12px; display:inline;
+}
+/*更新包下载*/
+.gxb_down{ padding:5px;}
+.sub_th{color:#d4100b; line-height:30px; border-top:1px dotted #5f583e; padding-top:10px; font-size:13px}
+.gxb_down a{ background:url("../www.73moyu.com/images/download/ico_down2.gif"/*tpa=http://www.dhmy.net/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.cjmy.info/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.73moyu.com/images/download/ico_down2.gif*/) no-repeat; 
+padding-left:14px; margin-left:-5px;
+}
+.gxb_down strong a,.sub_th a{ background:none; padding:0px; margin:0px;}
+
+/*----------大陆英文版客户端下载------------*/
+.en_client{ width:100%;}
+.en_client .updata_down li{ line-height:16px; padding-top:5px; font-weight:normal; font-family:Tahoma; *font-size:11px;}
+.en_client .push_down { padding:10px 0 0 40px; }
+.en_client .push_down li.push_1, .en_client .push_down li.push_4{ margin-right:110px;}
+.en_client table{}
+
+/*----------合作方下载----------*/
+.partner{ }
+body:nth-of-type(1) .partner .table_1, body:nth-of-type(1) .about_con .table_1{ width:664px;}/*Google Chrome hack*/
+.partner .table_1 th, .about_con .table_1 th{ text-align:center;}
+.partner_con{ position:relative; }
+.partner_con li{float:left;width:165px;text-indent:35px; background:url("../www.73moyu.com/images/download/ico_down2.gif"/*tpa=http://www.dhmy.net/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.cjmy.info/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.73moyu.com/images/download/ico_down2.gif*/) no-repeat 17px 9px;
+border-bottom:1px solid #cfbd7c;border-right:1px solid #cfbd7c; line-height:250%
+}
+.partner td,.about_game td{ border:none; padding:0}
+.partner table,.about_game table{ border:1px solid #d8cb9d; background-color:#fffaef; margin-top:15px; width:666px}
+
+/*----------游戏相关下载----------*/
+.about_game{ width:100%;}
+.about_top{ width:100%; padding:30px 0 0 0;}
+.about_top ul{ padding-left:35px;}
+.about_top li{ float:left; width:246px; }
+.about_top li a{height:64px;}
+.about_top li a{ display:block; text-indent:-9999em; overflow:hidden;}
+.about_1{ background:url("down_xg.jpg"/*tpa=http://www.dhmy.net/images/down_xg.jpg*//*tpa=http://www.cjmy.info/images/down_xg.jpg*//*tpa=http://www.58mysf.com/images/down_xg.jpg*/) no-repeat -8px top
+}
+.about_2{  background:url("down_xg.jpg"/*tpa=http://www.dhmy.net/images/down_xg.jpg*//*tpa=http://www.cjmy.info/images/down_xg.jpg*//*tpa=http://www.58mysf.com/images/down_xg.jpg*/) no-repeat -298px top
+}
+.about_3{  background:url("down_xg.jpg"/*tpa=http://www.dhmy.net/images/down_xg.jpg*//*tpa=http://www.cjmy.info/images/down_xg.jpg*//*tpa=http://www.58mysf.com/images/down_xg.jpg*/) no-repeat -8px -60px
+}
+.about_4{  background:url("down_xg.jpg"/*tpa=http://www.dhmy.net/images/down_xg.jpg*//*tpa=http://www.cjmy.info/images/down_xg.jpg*//*tpa=http://www.58mysf.com/images/down_xg.jpg*/) no-repeat -298px -60px
+}
+li.about_5{  background:url("baobao.jpg"/*tpa=http://www.dhmy.net/images/baobao.jpg*//*tpa=http://www.cjmy.info/images/baobao.jpg*//*tpa=http://www.58mysf.com/images/baobao.jpg*/) no-repeat ;
+width:355px; margin:10px 0 0 0;
+}
+.about_1, .about_3{ margin-right:95px;}
+.about_1, .about_2{ margin-bottom:15px;}
+.about_con .partner_con li{ width:221px; line-height:250%; text-indent:25px; background:url("../www.73moyu.com/images/download/ico_down2.gif"/*tpa=http://www.dhmy.net/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.cjmy.info/www.73moyu.com/images/download/ico_down2.gif*//*tpa=http://www.73moyu.com/images/download/ico_down2.gif*/) no-repeat 10px 10px;
+}
+.download_content{ border: none; padding:10px 0 70px 0}
+.client table, .en_client table{ width:100%; background-color:#fffaef; margin-top:15px; border:none}
+.client td,.en_client td{ border:1px solid #d8cb9d}
+.client th,.en_client th,.partner th,.about_con th{ line-height:34px; border:1px solid #d8cb9d; background-color:#8a7c6f; color:#fff}
+.about_con table{ width:667px; background-color:#fffaef; margin-top:15px; border-right:none}
+.en_client .line_1 th { line-height:24px;}
+
+/*任务大全页*/
+.rwdq a{ font-size:13px; text-decoration:none}
+.rwdq a:hover{ text-decoration:underline}
+.rwdq  table{ margin:15px 0 0 0}
+.rwdq td{ text-align:center}
+.rwdq th{ background-color:#8a7c6f; line-height:30px; font-weight:bold; color:#FFF; text-align:left; text-indent:15px}
+.noborder img{ border:none; padding:0}
+.noborder a:hover  img{ border:none; padding:0}
+
+
+/*分页*/
+DIV.page {PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center}
+DIV.page table,DIV.page table td{ border:none}
+DIV.page A {border:1px solid #635A49;color:#9D3E22;margin:2px;padding:2px 5px;text-decoration:none;}
+DIV.page A:hover {background-color:#635A49;border:1px solid #1A130B;color:#fff;margin:2px;padding:2px 5px;}
+DIV.page A:active {BORDER-RIGHT: #000099 1px solid; BORDER-TOP: #000099 1px solid; BORDER-LEFT: #000099 1px solid; COLOR: #000; BORDER-BOTTOM: #000099 1px solid}
+DIV.page SPAN.current {background-color:#635A49;border:1px solid #1A130B;color:#fff;font-weight:bold;margin:2px;padding:2px 5px;}
+DIV.page SPAN.no_link { border:1px solid #635A49;color:#707070;margin:2px;padding:2px 5px;}
+DIV.page table {TEXT-ALIGN: center;margin:0 auto;}
+
+/**/
+table.tableNoBorder{ border:none; line-height:20px}
+table.tableNoBorder td{ line-height:20px; border:none; padding:3px}
+table.tableNoBorder img{ border:none; padding:0}
+
+/*资料页面导航用表格样式*/
+.mark{font:bold 14px 宋体; border:2px solid #897358; border-collapse: collapse;margin:0 auto; }
+.mark td{text-align:center;border:1px solid #897358;padding:6px auto;height:28px;}
+.mark td a{ text-decoration:none}
+.mark td a:hover{ text-decoration:underline}
+.mark img{border:none;}
+
+/*防木马页面*/
+.subtab_cont { background-image: url("images/080611/tab_08.jpg"/*tpa=http://www.dhmy.net/images/images/080611/tab_08.jpg*//*tpa=http://www.cjmy.info/images/images/080611/tab_08.jpg*//*tpa=http://www.58mysf.com/images/images/080611/tab_08.jpg*/); 
+padding-top: 8px; padding-bottom: 8px; }
+.subtab_tle { font-size: 14px; font-weight: bold; border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #69563F; }
+.subtab_txt { padding-top: 5px; font-size: 12px; }
+
+/*表格样式*/
+.sed_tab { border: 2px solid #897358; border-collapse: collapse;margin:0 auto; }
+.sed_tab td { border: 1px solid #897358;padding:7px 5px;}
+
+.bottom_xg{ height:240px; background:url("sub_bottom_two0828.jpg"/*tpa=http://www.dhmy.net/images/sub_bottom_two0828.jpg*//*tpa=http://www.cjmy.info/images/sub_bottom_two0828.jpg*//*tpa=http://www.58mysf.com/images/sub_bottom_two0828.jpg*/) no-repeat; 
+width:660px; margin:10px 0 0 0
+} 
+.bottom_xg h3{font-size:13px; color:#FFF; text-indent:120px; line-height:32px}
+.sub_bottom_xg li{ line-height:20px; padding-left:10px}
+.sub_bottom_xg a{color:#c4baa8;font-size:12px;display: block;width: 250px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; float:left}
+
+
+
+
+/*更新爆料列表&更新资料列表 表格样式*/
+.update talbe{ background-color:#ddd6b7; border-collapse:collapse;}
+.update td{padding:3px 0 3px 10px;border:1px solid #bba484}
+.update a{color:#000;font:12px "宋体";}
+
+/*表格样式*/
+.sed_tab { border: 2px solid #999; border-collapse: collapse;margin:0 auto; }
+.sed_tab td { border: 1px solid #999;padding:7px 5px;}
+
+/*官网资讯*/
+.mood  a{ font-weight:bold; font-size:14px; background:url("images/sub/down_tit.gif"/*tpa=http://www.dhmy.net/images/images/sub/down_tit.gif*//*tpa=http://www.cjmy.info/images/images/sub/down_tit.gif*//*tpa=http://www.58mysf.com/images/images/sub/down_tit.gif*/) no-repeat left 50%; 
+padding:0 0 0 15px
+}
+.mood td{ line-height:180%;font-size:13px; border-bottom:1px  dotted #5F583E; padding:10px 0}
+.more{ text-align:right; padding:3px 10px 0 0}
+
+/*news列表*/
+.news_nav{ background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat; 
+width:644px; height:41px
+}
+.news_nav a{ width:122px; height:41px; display:block; float:left; }
+.column table{ width:98%}
+a.news0_on{background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat -16px -41px
+}
+a.news1_on{background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat -142px -41px
+}
+a.news2_on{background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat -265px -41px
+}
+a.news3_on{background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat -388px -41px
+}
+a.news4_on{background:url("news_nav.jpg"/*tpa=http://www.dhmy.net/images/news_nav.jpg*//*tpa=http://www.cjmy.info/images/news_nav.jpg*//*tpa=http://www.58mysf.com/images/news_nav.jpg*/) no-repeat -508px -41px
+}
+
+/*魔域小游戏*/
+.smallgame table {width:100%;line-height:30px;}
+.sub_content .smallgame img,.sub_content .smallgame a:hover img {background:none; border:none;}
